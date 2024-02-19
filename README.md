@@ -3,3 +3,6 @@ O arquivo *MAIN.py* é o arquivo que deverá ser executado para acessar a calcul
 Além disso, o projeto também contém a pasta *scratches* com alguns protópitos e testes feitos durante a criação do código.  
   
 A calculadora não aceita números complexos, e não faz contas com valores infinitos.  
+
+# fontes
+[https://realpython.com/python-gui-tkinter/](https://realpython.com/python-gui-tkinter/)
