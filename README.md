@@ -49,7 +49,7 @@ calculator_with_tkinter/
 - Refactor the logic to use a safer and more robust expression parser.  
 - Package it into an executable using **PyInstaller** for distribution.
 
-## 🚧 Known Limitations  
+## Known Limitations  
 - Does not support complex or infinite numbers.  
 - Basic GUI layout — may not scale well on all screens.  
 - Potential risks of using Python’s `eval()` for composite expressions.
